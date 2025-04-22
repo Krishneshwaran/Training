@@ -24,7 +24,4 @@ _Your register number here_
 
 > ℹ️ Replace the above values with your actual incomplete task details.
 
----
-
-### 📁 Folder Structure
 
